@@ -65,3 +65,4 @@ RegisterNumber:24005930
 ![Screenshot 2024-12-06 092209](https://github.com/user-attachments/assets/2b79c0f1-95ac-433c-b6c0-f32719a8d9fc)
 
 **RESULTS**
+The synchronous-up-counter are the output is verified.
